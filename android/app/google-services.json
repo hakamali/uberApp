@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941594709439",
+    "project_id": "uber-b0a95",
+    "storage_bucket": "uber-b0a95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941594709439:android:8bf3b841b315f90e89650a",
+        "android_client_info": {
+          "package_name": "com.virtue.rider_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941594709439-iffa9favt8sl401ct10di59mggopesu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeasPpYZ4Fh6aN1DvmT8ysPn6D4dcOpsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941594709439-iffa9favt8sl401ct10di59mggopesu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
